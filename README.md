@@ -5,3 +5,5 @@
 Hier liegt mein Bash Skript aus dem Library Carpentry Workshop.
 
  - Author: Davide Montanaro
+ 
+ - Test Kathi
